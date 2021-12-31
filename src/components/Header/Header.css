@@ -1,0 +1,25 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+
+}
+.ne{
+    
+    left: 30px;
+    width: 80px;
+    margin-top: 20px;
+
+}
+.avathar{
+    position: fixed;
+    right: 30px;
+    width: 30px;
+    margin-top: 10px;
+
+}
